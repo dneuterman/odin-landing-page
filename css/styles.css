@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    color: #f9faf8;
+    font-size: 18px;
+}
+
+nav,
+header,
+footer {
+    background-color: #1f2937;
+}
+
+.logo {
+    font-size: 24px;
+}
+
+.header-content > h1 {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.header-content > p,
+.card-description {
+    color: #e5e7eb;
+}
+
+.info-title,
+.quote-section {
+    color: #1f2937;
+}
+
+.info-title {
+    font-size: 36px;
+    font-weight: 900;
+}
